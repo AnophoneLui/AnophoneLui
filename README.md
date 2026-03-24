@@ -1,16 +1,28 @@
-## Hi there 👋
+<table>
+  <tr>
+    <td width="40%">
+      <img src="[https://avatars.githubusercontent.com/u/your-id?v=4](https://avatars.githubusercontent.com/u/204286634?v=4&size=64)" width="100%" />
+    </td>
+    <td width="60%">
 
-<!--
-**AnophoneLui/AnophoneLui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Hi, I'm Ano
 
-Here are some ideas to get you started:
+🎓 Third-year IT student at Van Lang University  
+💻 Front-end Developer  
+🌱 Learning React & UI/UX  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 About Me
+- Passionate about building user-friendly interfaces  
+- Focused on improving coding skills through real projects  
+- Interested in AI and web development  
+
+---
+
+### 📫 Contact
+- Email: anophonelui@gmail.com  
+
+    </td>
+  </tr>
+</table>
