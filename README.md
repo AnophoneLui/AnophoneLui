@@ -42,52 +42,6 @@
 
 ---
 
-## 💼 Featured Projects
-
-### 🎮 [SuiArcade - Web3 Gaming Platform](https://github.com/AnophoneLui/Sui_Arcade)
-**Team Project (5 members) | Jan 2025 - Dec 2025**
-
-Developed a decentralized gaming platform on Sui blockchain with classic games, featuring:
-- 🎯 Real-time on-chain interactions
-- 💰 Transparent Web3 rewards system
-- 🎨 Responsive UI/UX design with pixel art style
-- 🔗 Sui Wallet integration
-
-**Tech Stack:** HTML, CSS, JavaScript, Figma, Sui Blockchain SDK  
-**Role:** UI/UX Designer & Front-end Developer  
-**Achievement:** 🏆 **1st Prize** - Best Web3 Gaming Project
-
----
-
-### 🛒 [E-commerce Website](https://github.com/AnophoneLui/Website_PenPalace)
-**Team Project (5 members) | Aug 2024 - Dec 2024**
-
-Built a responsive e-commerce platform for stationery products with:
-- 📦 Dynamic SQL-driven product listings
-- 🔍 Category filtering and sorting features
-- 👤 User-friendly interface with intuitive navigation
-- 📱 Fully responsive design
-
-**Tech Stack:** HTML, CSS, Bootstrap, PHP, MySQL  
-**Role:** UI/UX Designer & Front-end Developer  
-**Result:** Successfully delivered a functional e-commerce platform with database integration
-
----
-
-### ♟️ [Chess AI Game](https://github.com/AnophoneLui/Chess_AI)
-**Team Project (5 members) | Jun 2025 - Aug 2025**
-
-Created an AI-powered chess game with:
-- 🤖 Minimax algorithm with alpha-beta pruning
-- 🎮 Interactive and responsive game board
-- 🎯 Smooth gameplay with intuitive UI
-
-**Tech Stack:** Python, Pygame, Minimax Algorithm, Tkinter  
-**Role:** UI/UX Designer & Front-end Developer  
-**Result:** Delivered a fully functional AI chess game with improved understanding of game logic
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
